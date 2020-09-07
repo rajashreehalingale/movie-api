@@ -1,3 +1,4 @@
+/* eslint-disable */
 module.exports = {
   "env": {
     "es6": true,
@@ -26,7 +27,7 @@ module.exports = {
     "key-spacing": ["error", { "afterColon": true }],
     "keyword-spacing": ["error", { "before": true, "after": true }],
     "linebreak-style": ["error", "unix"],
-    "max-len": ["error", { "code": 120, "ignoreComments": true, "ignoreTrailingComments": true }],
+    "max-len": ["error", { "code": 190, "ignoreComments": true, "ignoreTrailingComments": true }],
     "no-console": "error",
     "no-case-declarations": 0,
     "no-mixed-spaces-and-tabs": "error",
